@@ -1,2 +1,2 @@
-# ImageNet2012-download
-ImageNet2012 download &amp; arrangement
+# ImageNet2012 Download and Arrangement
+
