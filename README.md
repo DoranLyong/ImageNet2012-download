@@ -31,14 +31,14 @@ bash DB_arrangement.bash
 Be sure if they are arranged like below: 
 
 ```bash
-train
+./train
 ├── n07693725
 ├── ... 
 └── n07614500
 ```
 
 ```bash
-val
+./val
 ├── n01440764 
 ├── ...
 └── n04458633
