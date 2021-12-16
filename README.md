@@ -2,7 +2,7 @@
 
 The official download link is expired now :cry:.  However, we can download the dataset through Torrent. </br> 
 
-:exclamation: check more information from https://image-net.org/ , if you need
+:exclamation: check more information from https://image-net.org/ , if you need.
 
 ## Download data 
 
