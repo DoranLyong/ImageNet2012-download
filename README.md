@@ -59,6 +59,7 @@ Check the ```dataloader_example.ipynb```
 
 * [ImageNet LSVRC 2012 데이터셋 다운로드 받기](https://seongkyun.github.io/others/2019/03/06/imagenet_dn/)
 * [DataLoader parameter별 용도](https://subinium.github.io/pytorch-dataloader/)
+* [ILSVRC(Imagenet classification)validation set torchvision 으로 성능평가하기](https://csm-kr.tistory.com/6)
 * [tensorflow/datasets, imagenet2012](https://github.com/tensorflow/datasets/blob/master/docs/catalog/imagenet2012.md)
 
 
