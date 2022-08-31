@@ -62,5 +62,5 @@ Check the ```dataloader_example.ipynb```
 * [ILSVRC(Imagenet classification)validation set torchvision 으로 성능평가하기](https://csm-kr.tistory.com/6)
 * [tensorflow/datasets, imagenet2012](https://github.com/tensorflow/datasets/blob/master/docs/catalog/imagenet2012.md)
 * [BIGBALLON/extract_ILSVRC.sh](https://gist.github.com/BIGBALLON/8a71d225eff18d88e469e6ea9b39cef4)
-
+* [mmclassication, prepare datasets](https://mmclassification.readthedocs.io/en/latest/getting_started.html#prepare-datasets) ← refer here for much practical information
 
